@@ -72,6 +72,7 @@ h2 {
 .text-image-container {
     display: flex;
     align-items: flex-start;
+    float: left;
 }
   
 .image {
@@ -87,7 +88,7 @@ h2 {
     text-align:justify;
     padding-top: 0;
     padding-bottom: 0;
-    padding-right: 20px
+    padding-right: 20px;
 }
 
 p {
